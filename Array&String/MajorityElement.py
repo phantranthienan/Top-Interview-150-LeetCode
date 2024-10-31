@@ -1,5 +1,4 @@
 # 169. Majority Element
-
 class Solution(object):
     def majorityElement(self, nums):
         major_element = None
